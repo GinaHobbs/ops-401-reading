@@ -1,1 +1,3 @@
 # File Encryption
+
+To establish a secure system you need to have confidentiality, integrity and accountability. If a network is insecure then it will be impossible to meet the confidentiality requirement as attackers can steal information with a man in the middle atack. Integrity can also be compromised with this type of attack. Availability is important as well, since you need to be able to reliably access your data. Encrypting files ensures that information remains confidential, both at rest and in transit. To achieve data integrity the use of hash functions and digital signatures can be used. AS for availability, the best way is to set up a high availability cluster by creating failover servers.
