@@ -1,0 +1,3 @@
+# Data Loss Prevention and Data Classification
+
+Data Loss Prevention (DLP) is a set of processes used to ensure that sensitive data is not lost, misused or accessed by unauthorized users. Ways to remediate after it is determined that there are risks to an organization is to create alerts and encrypt systems and data. There are DLP tools that that help monitor and control endpoints activities, filter data streams and monitor data in the cloud to protect data at rest, in motion and in use. It is important to have within an organization and should be used. 
